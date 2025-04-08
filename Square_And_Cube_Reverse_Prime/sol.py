@@ -10,8 +10,8 @@ primes= {}
 
 
 As = [2, 3, 5, 7, 11, 13, 17]
-#if n < 341,550,071,728,321, it is enough to test a = 2, 3, 5, 7, 11, 13, and 17.
 #Miller-Rabin primality test
+#if n < 341,550,071,728,321, it is enough to test a = 2, 3, 5, 7, 11, 13, and 17.
 def prime(n):
     if n <= 1:
         return False

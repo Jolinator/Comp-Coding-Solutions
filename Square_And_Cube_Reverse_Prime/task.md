@@ -1,3 +1,5 @@
+https://www.codewars.com/kata/5644a69f7849c9c097000073
+
 #Square and Cube of a Number Become Prime When Reversed
 
 The number 89 is the first positive integer that has a particular, curious property:
